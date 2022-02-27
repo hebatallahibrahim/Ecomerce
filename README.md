@@ -80,7 +80,6 @@ You should have  `composer` installed. If you don't install composer from [here]
     ```
 15. Open your browser on this url ``` http://localhost:8000```
 
-Demo of laravel hotel project open this link ``` https://laravelhotel.herokuapp.com/```
 
 ### License
 MIT License
