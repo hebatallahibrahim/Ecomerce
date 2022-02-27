@@ -13,8 +13,8 @@ This is a project has features an online Ecomerce furniture system with differen
 
 ### Team Members:
 	mostafa Ibrahim elserry 
-  Nada Usama Ahmed 
-  Hebatallah Ibrahim elsayed
+ 	Nada Usama Ahmed 
+  	Hebatallah Ibrahim elsayed
 ### Prerequisites
 
 You should have  `composer` installed. If you don't install composer from [here](https://getcomposer.org/download/).
